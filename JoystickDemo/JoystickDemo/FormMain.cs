@@ -192,10 +192,5 @@ namespace LibHHControlTest
             this.Close();
         }
 
-        private void comboBox_JoyStick_SelectedIndexChanged(object sender, EventArgs e)
-        {
-            //m_JoyStick.ReleaseJoystick();
-            //m_JoyStick.AcquireJoystick(comboBox_JoyStick.SelectedText);
-        }
     }
 }
